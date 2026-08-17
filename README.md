@@ -14,23 +14,18 @@ At Titan, I build ML and analytics systems for the email product:
 - XGBoost abuse detection model
 - Predictive LTV modeling
 - Firebase / BigQuery SLO pipelines
-- ETL pipelines on Airflow / AWS with Metabase dashboards for stakeholders
+- ETL pipelines on Airflow / AWS with Metabase dashboards
 
-Published in Springer's CDPMHM 2024 proceedings on fault detection using
-signal processing and ML.
+Published in Springer's CDPMHM 2024 proceedings on fault detection using signal processing and ML.
 
 ---
 
 ### Currently
 
-Executing a structured 24-week roadmap targeting senior DS / ML / AI roles.
-Focus areas: production Python, applied statistics, LLM engineering,
-experimentation design.
-
-Recent pins below show ongoing work.
+Working through a structured roadmap building depth in production Python, applied statistics, LLM engineering, and experimentation design. Recent work in pinned repos below.
 
 ---
 
 ### Reach me
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/prateek-upadhayay-60465a200/) · prateekupadhayay07@gmail.com
+[LinkedIn](https://www.linkedin.com/in/prateek-upadhayay-60465a200/) · prateekupadhayay07@gmail.com
